@@ -1,0 +1,5 @@
+id,name,age,marks
+1,samba,32,90
+2,vedha,31,80
+3,jayaram,34,70
+4,sai,28,94writing in append mode
